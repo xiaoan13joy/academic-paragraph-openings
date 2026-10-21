@@ -1,0 +1,4 @@
+interface:
+  display_name: "学术论文段首写作"
+  short_description: "从论文实例学习段首如何承接、立论与展开，逐段改善论证推进和表达"
+  default_prompt: "请使用 $academic-paragraph-openings，根据上下文与段内证据，逐段检查并修改这篇论文的开头句。"
